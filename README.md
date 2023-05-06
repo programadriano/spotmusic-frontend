@@ -1,2 +1,2 @@
 # spotmusic-frontend
-Frontend do Spotmusic
+Frontend do Spotmusics
